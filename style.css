@@ -1,0 +1,113 @@
+body {
+    background-size: cover;
+    font-family: Comic Sans MS;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #status, #number_of_objetcs{
+    font-size: 20px;
+}
+
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #a73737 0%, #7a2828  51%, #a73737  100%);
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+           
+  .btn-grad1 {
+    background-image: linear-gradient(to right, #DE6262 0%, #FFB88C  51%, #DE6262  100%);
+    padding: 5px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+           
+  .btn-grad2 {
+    background-image: linear-gradient(to right, #870000 0%, #190A05  51%, #870000  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+  }
+
+  .btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+           
+  .btn-grad3 {
+    background-image: linear-gradient(to right, #603813 0%, #b29f94  51%, #603813  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+  }
+
+  .btn-grad3:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .copy_right_footer {
+      position: fixed;
+      bottom: 0;
+      background-image: linear-gradient(to right, #3e0606, #420e10, #471517, #4b1c1d, #4f2323, #5d3232, #6a4242, #785252, #937070, #ae9090, #c9b1b1, #e5d3d3);
+      width: 100%;
+      line-height: 3;
+      text-align: center;
+      color: white;
+      
+  }
+
+  canvas{
+      border: 2px solid white;
+      border-radius: 10px;
+      margin-top: 130px;
+      box-shadow: 5px 5px 5px white;
+  }
+ 
+
+
+ 
+ 
